@@ -27,7 +27,7 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 
-
+/* A new comment*/
 function openTab(tabName) {
     var i, x;
     x = document.getElementsByClassName("containerTab");
